@@ -1,0 +1,8 @@
+{
+  "name": "EduGenius: AI Quiz Generator",
+  "description": "A professional curriculum-focused assessment generator that creates high-quality questions with AI-generated visuals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
